@@ -1,0 +1,7 @@
+{
+    "server": "localhost",
+    "db": "dac",
+    "user" : "root",
+    "pwd": "manager",
+    "PORT": 9999
+}
